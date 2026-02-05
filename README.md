@@ -34,4 +34,3 @@ The application is built with **React** and **TypeScript**, emphasizing clean ar
 ## 🧩 Architecture Overview
 
 The project follows a **modular and maintainable structure**, separating UI components, core logic, and utilities.
-
